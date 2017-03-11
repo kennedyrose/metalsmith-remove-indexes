@@ -1,10 +1,14 @@
 {
   "name": "metalsmith-remove-indexes",
   "version": "0.0.0",
-  "description": "A Metalsmith plugin to convert all all {path}/index.html files to {path}.html",
+  "description": "A Metalsmith plugin to convert all {path}/index.html files to {path}.html",
   "main": "index.js",
   "author": "Kennedy Rose <kennedy@kennedyrose.com> (https://kennedyrose.com)",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kennedyrose/metalsmith-remove-indexes.git"
+  },
   "dependencies": {
     "minimatch": "^3.0.3"
   },
