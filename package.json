@@ -1,6 +1,6 @@
 {
   "name": "metalsmith-remove-indexes",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "A Metalsmith plugin to convert all {path}/index.html files to {path}.html",
   "main": "index.js",
   "author": "Kennedy Rose <kennedy@kennedyrose.com> (https://kennedyrose.com)",
@@ -13,8 +13,8 @@
     "minimatch": "^3.0.3"
   },
   "keywords": [
-  	"metalsmith",
-  	"index",
-  	"directory"
+    "metalsmith",
+    "index",
+    "directory"
   ]
 }
